@@ -23,6 +23,7 @@ Wait a couple of minutes for it to complete. Then open the repository settings o
 1. go to the "Pages" section
 2. under "Source" select "gh-pages" and save.
 
-A website with the rendered lesson materials should appear at https://{{cookiecutter.github_username}}.github.io/{{cookiecutter.lesson_slug}}
+A website with the rendered lesson materials should appear at: https://{{cookiecutter.github_username|lower}}.github.io/{{cookiecutter.lesson_slug}}
+Note that it might take up to 20 minutes for the website to appear!
 """
 print(POST_CREATION)
