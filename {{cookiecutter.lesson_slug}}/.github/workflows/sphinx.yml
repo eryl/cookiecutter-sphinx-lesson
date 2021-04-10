@@ -91,7 +91,7 @@ jobs:
       - name: Copy new build (default branch)
         if: |
           contains(github.event_name, 'push') &&
-          !contains(github.ref, env.DEFAULT_BRANCH)
+          contains(github.ref, env.DEFAULT_BRANCH)
         run: |
           set -x
           # Delete everything under _gh-pages/ that is from the

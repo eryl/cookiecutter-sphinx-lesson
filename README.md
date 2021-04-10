@@ -17,7 +17,7 @@ $ pip install -U cookiecutter
 Generate a Python package project::
 
 ``` shell
-$ cookiecutter https://github.com/ENCCS/cookiecutter-sphinx-lesson.git
+$ cookiecutter gh:ENCCS/cookiecutter-sphinx-lesson
 ```
 
 Then:
