@@ -2,7 +2,7 @@
 
 [Cookiecutter](https://github.com/cookiecutter/cookiecutter) template for training material in `sphinx-lesson` format.
 
-* GitHub repo: https://github.com/ENCCS/cookiecutter-sphinx-lesson/
+* GitHub repo: https://github.com/eryl/cookiecutter-sphinx-lesson/
 * Free software: BSD license
 
 ## Quickstart
@@ -17,7 +17,7 @@ $ pip install -U cookiecutter
 Generate a Python package project::
 
 ``` shell
-$ cookiecutter gh:ENCCS/cookiecutter-sphinx-lesson
+$ cookiecutter gh:eryl/cookiecutter-sphinx-lesson
 ```
 
 Then:

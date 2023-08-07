@@ -1,13 +1,13 @@
 {
     "full_name": "Hiphopopotamus Rhymenoceros",
-    "github_username": "ENCCS",
+    "github_username": "eryl",
     "lesson_slug": "lesson",
     "default_branch": "main",
-    "home_page": "https://enccs.se",
-    "short_description": "Teaching material for ENCCS workshop",
+    "home_page": "https://datahub.aida.scilifelab.se/",
+    "short_description": "Workshop teaching material",
     "lesson_name": "A lesson in ``sphinx-lesson`` format",
     "html_theme": "sphinx_rtd_theme",
-    "html_logo": "ENCCS.jpg",
+    "html_logo": "aida-icon.png",
     "html_favicon": "favicon.ico",
     "lesson_license": ["CC-BY-4.0", "CC-BY-SA-4.0"],
     "code_license": ["MIT", "BSD-3", "Mozilla Public License 2.0", "Apache Software License 2.0"]
